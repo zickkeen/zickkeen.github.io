@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Bahasa
+Repository dari Bojez Creative yg dimanage oleh [@zickkeen](https://github.com/zickkeen)
+Repository ini berisi pembelajaran bagi saya pribadi dan mudah-mudahan bermanfaat jua bagi semuanya.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### English
+Repository of Bojez Creative where manageable bt [@zickkeen](https://github.com/zickkeen)
+This repo is about my study and I hope helpfully for the other too.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jackkinny@gmail.com](mailto:jackkinny@gmail.com)

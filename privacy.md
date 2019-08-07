@@ -4,7 +4,7 @@ title: Privacy Policy for Zick Keen
 permalink: /privacy/
 ---
 
-###Privacy Policy for Zick Keen 
+### Privacy Policy for Zick Keen 
 <p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at <script type="text/javascript">/*<![CDATA[*//************************************************ Tool from Privacy Policy Generator* URL* **********************************************/<!-- Encrypted version of: your email [at] **********.*** //-->
 var CodedArray=[106,97,99,107,107,105,110,110,121,64,103,109,97,105,108,46,99,111,109,]
 var encryptedEmail='' 

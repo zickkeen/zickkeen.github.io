@@ -4,7 +4,7 @@ title: Privacy Policy for Zick Keen
 permalink: /privacy/
 ---
 
-#Privacy Policy for Zick Keen
+#Privacy Policy for Zick Keen 
 <p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at <script type="text/javascript">/*<![CDATA[*//************************************************ Tool from Privacy Policy Generator* URL* **********************************************/<!-- Encrypted version of: your email [at] **********.*** //-->
 var CodedArray=[106,97,99,107,107,105,110,110,121,64,103,109,97,105,108,46,99,111,109,]
 var encryptedEmail='' 
@@ -31,7 +31,7 @@ document.write('">&#80;&#114;&#105;&#118;&#97;&#99;&#121;</a>')
 You may consult this listing to find the privacy policy for each of the advertising partners of zickkeen.github.io.</em></p>
 <p> These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on zickkeen.github.io and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. </p> 
 <p> zickkeen.github.io has no access to or control over these cookies that are used by third-party advertisers. </p> 
-<p> </p><p><b>Third Party Privacy Policies</b><br> 
+<p>Â </p><p><b>Third Party Privacy Policies</b><br> 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. zickkeen.github.io's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: <a href="http://www.privacypolicyonline.com/privacy-policy-links" title="Privacy Policy Links">Privacy Policy Links</a>.</p> 
 <p> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. <a href="http://www.privacypolicyonline.com/what-are-cookies">What Are Cookies?</a></p>
 

@@ -6,17 +6,17 @@
 
     <body id="page-top" class="index">
 	{% if page.title %}
-		{{% include header.html %}}
+		{% include header.html %}
 	{% else %}
-		{{% include header.html %}}
-		{{% include header-one.html %}}
-	{% endif %}    
-    {% include services.html %}
-    {% include portfolio_grid.html %}
-    {% include about.html %}
-    {% include team.html %}
-    {% include clients.html %}
-    {% include contact.html %}
+		{% include header.html %}
+		{% include header-one.html %}
+		{% include services.html %}
+		{% include portfolio_grid.html %}
+		{% include about.html %}
+		{% include team.html %}
+		{% include clients.html %}
+		{% include contact.html %}
+	{% endif %} 
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}

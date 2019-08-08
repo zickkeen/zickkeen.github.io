@@ -4,14 +4,111 @@ title: About
 permalink: /about/
 ---
 
-### Bahasa
-Repository dari Bojez Creative yg dimanage oleh [@zickkeen](https://github.com/zickkeen)
-Repository ini berisi pembelajaran bagi saya pribadi dan mudah-mudahan bermanfaat jua bagi semuanya.
-
-### English
-Repository of Bojez Creative where manageable bt [@zickkeen](https://github.com/zickkeen)
-This repo is about my study and I hope helpfully for the other too.
-
-### Contact me
-
-[jackkinny@gmail.com](mailto:jackkinny@gmail.com)
+<!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">Perjalanan Saya.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/mass.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2006-2009</h4>
+                                    <h4 class="subheading">Sekolah Lanjutan Atas</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Lulus dari MA Subulas Salam jurusan IPS tahun 2009!</p>
+                                </div>
+                            </div>
+                        </li>
+						<li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/warnet.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Jul 2010–Agust 2011</h4>
+                                    <h4 class="subheading">Teknisi Freelance Warnet Abbink.Net</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Menangani sekitar 120PC, Menservice setiap trouble shooting hardware, software maupun jaringan. Menginstal software yang di butuhkan oleh warnet dan Me-manage Bandwith dengan mikrotik dan Ubuntu server!</p>
+                                </div>
+                            </div>
+                        </li>
+						<li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/warnet.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Agust 2011–Mei 2012</h4>
+                                    <h4 class="subheading">Teknisi Freelance Warnet Bionix.Net</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Menservice setiap trouble shooting hardware, software maupun jaringan. Menginstal software yang di butuhkan oleh warnet dan Me-manage Bandwith dengan mikrotik dan Ubuntu server!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/sttm.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2012-2013</h4>
+                                    <h4 class="subheading">Perguruan Tinggi</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Lulus Perguruan Tinggi (STT Malang) D1 Jurusan Teknik Informatika!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/trias.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Sept 2012 - Mar 2013</h4>
+                                    <h4 class="subheading">Teknisi OutSource Glory Currency Counter Machine</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Bekerja di PT Trias Mitra Jaya Manunggal sebagai Teknisi Mesin Penghitung Uang!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/guru.png" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Jul 2010–Jun 2013</h4>
+                                    <h4 class="subheading">Sebagai Guru</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Menjadi Guru Pelajaran Teknik Informasi dan Komunikasi di MA Subulas Salam sampai tahun 2013, Berhenti mengajar semenjak Kurikulum TIK dihapuskan.!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <a href="/about/"><h4>More
+                                    <br>Of Our
+                                    <br>Story!</h4></a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>

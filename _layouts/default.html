@@ -5,8 +5,12 @@
 
 
     <body id="page-top" class="index">
-
-    {% include header.html %}
+	{% if page.title %}
+		{{% include header.html %}}
+	{% else %}
+		{{% include header.html %}}
+		{{% include header-one.html %}}
+	{% endif %}    
     {% include services.html %}
     {% include portfolio_grid.html %}
     {% include about.html %}

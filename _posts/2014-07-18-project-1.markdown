@@ -10,6 +10,14 @@ alt: image-alt
 project-date: October 2020
 client: Bawaslu Jawa Timur
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Dalam project ini, Pengawas TPS melaporkan hasil perhitungan suara melalui Telegram Bot. Dan data hasil kiriman Pengawas TPS tersebut diolah diserver dan disajikan dalam bentuk laporan visual (Web Front-End).
+Di sini saya sebagai:
+* Perancang Arsitektur Sistem
+* Backend Developer
+* Telegram Api Handler Developer
+* Telegram Local Server Developer
+* DevOps
+* Server Manager
+* Server Admin
 
 ---

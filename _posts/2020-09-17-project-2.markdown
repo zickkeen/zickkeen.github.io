@@ -1,0 +1,15 @@
+---
+title: Bawaslu Jatim Bot
+subtitle: Bot Telegram
+layout: default
+modal-id: 2
+date: 2020-09-17
+img: bawaslubot.png
+thumbnail: bawaslubot-thumbnail.png
+alt: image-alt
+project-date: September 2020
+client: Bawaslu Jatim
+category: Telegram Bot
+description: Dalam project ini, bot digunakan untuk media pengiriman gambar oleh pengawas tps kepada server Bawaslu Jawa Timur. Bot Telegram dipilih dikarenakan saranan yang paling mudah digunakan layaknya chatting biasa dan multi platform dengan tingkat security yang baik.
+
+---

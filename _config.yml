@@ -1,5 +1,5 @@
 url: https://zickkeen.github.io
-baseurl: 
+baseurl: www.bojez.com
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Site settings
@@ -10,18 +10,18 @@ description: "Web Developer."
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Erzawansyah
   pic: 1
-  position: Lead Designer
+  position: Front-End Developer
   social:
-    - title: twitter
-      url: #
+    - title: github
+      url: https://github.com/erzawansyah
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Front-End
   pic: 2
   position: Lead Marketer
   social:
@@ -52,7 +52,7 @@ social:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/zickkeen/
   - title: github
     url: http://github.com/zickkeen
   - title: instagram

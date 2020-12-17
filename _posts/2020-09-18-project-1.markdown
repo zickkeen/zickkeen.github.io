@@ -1,0 +1,16 @@
+---
+title: SiPeTung
+subtitle: Web App
+layout: default
+modal-id: 1
+date: 2020-09-18
+img: SiPeTung.png
+thumbnail: SiPeTung-thumbnail.png
+alt: image-alt
+project-date: September 2020
+client: Bawaslu Jatim
+clientUrl: https://jatim.bawaslu.go.id
+category: Web App
+description: Dalam project ini, Pengawas TPS melaporkan hasil perhitungan suara melalui Telegram Bot. Dan data hasil kiriman Pengawas TPS tersebut diolah diserver dan disajikan dalam bentuk laporan visual (Web Front-End). Di sini saya sebagai (Perancang Arsitektur Sistem, Backend Developer, Telegram Api Handler Developer, Telegram Local Server Developer, DevOps, Server Manager, Server Admin).
+
+---
